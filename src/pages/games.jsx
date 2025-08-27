@@ -1,9 +1,9 @@
 import { Carousel, Button, Card } from 'flowbite-react';
-import dota2Img from "../assets/dota_heros.png";
-import eldenRingImg from "../assets/ER_fondo.jpg";
-import hollowKnightImg from "../assets/HN_solo.jpg";
-import wowImg from "../assets/wow_fondo_2.jpg";
-import fondo from "../assets/wow_fondo.jpg";
+import dota2Img from "/dota_heros.png";
+import eldenRingImg from "/ER_fondo.jpg";
+import hollowKnightImg from "/HN_solo.jpg";
+import wowImg from "/wow_fondo_2.jpg";
+import fondo from "/wow_fondo.jpg";
 
 export default function Games() {
     const games = [

@@ -1,8 +1,8 @@
 import { Card } from 'flowbite-react';
-import dota2Img from "../assets/dota_heros_pentagonos.png";
-import eldenRingImg from "../assets/ER_fondo_2.jpg";
-import hollowKnightImg from "../assets/HN_2.jpg";
-import wowImg from "../assets/wow_fondo.jpg";
+import dota2Img from "/dota_heros_pentagonos.png";
+import eldenRingImg from "/ER_fondo_2.jpg";
+import hollowKnightImg from "/HN_2.jpg";
+import wowImg from "/wow_fondo.jpg";
 
 export default function News() {
     const news = [

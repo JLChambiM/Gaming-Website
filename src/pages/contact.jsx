@@ -9,7 +9,7 @@ import {
     FaFacebook,
     FaFire
 } from 'react-icons/fa';
-import dota2Img from "../assets/dota2.jpg";
+import dota2Img from "/dota2.jpg";
 
 export default function Contact() {
     const socialLinks = [

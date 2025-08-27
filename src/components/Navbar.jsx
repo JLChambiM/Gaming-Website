@@ -5,7 +5,7 @@ export default function Navigation() {
   return (
     <Navbar fluid className="fixed top-0 left-0 right-0 z-50 bg-slate-800 border-gray-700">
       <NavbarBrand as={Link} to="/">
-        <img src="src/assets/react.svg" alt="GamersUnited" className="mr-3 h-6 sm:h-9" />
+        <img src="/react.svg" alt="GamersUnited" className="mr-3 h-6 sm:h-9" />
         <span className="self-center whitespace-nowrap text-2xl font-bold text-gray-900 dark:text-white tracking-tight">
           Gaming Community
         </span>

@@ -15,7 +15,7 @@ export default function Home() {
           <div 
             className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-transform duration-500 group-hover:scale-105"
             style={{ 
-              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(src/assets/dota2.jpg)`,
+              backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/dota2.jpg)`,
               backgroundColor: '#1a1a2e'
             }}
           />
@@ -38,7 +38,7 @@ export default function Home() {
             <div 
               className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-transform duration-500 group-hover:scale-105"
               style={{ 
-                backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(src/assets/wow.jpg)`,
+                backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/wow.jpg)`,
                 backgroundColor: '#2d2d44'
               }}
             />
@@ -61,7 +61,7 @@ export default function Home() {
               <div 
                 className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-transform duration-500 group-hover:scale-105"
                 style={{ 
-                  backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(src/assets/HollowKnight.jpg)`,
+                  backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/HollowKnight.jpg)`,
                   backgroundColor: '#1a1a2e'
                 }}
               />
@@ -83,7 +83,7 @@ export default function Home() {
               <div 
                 className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-transform duration-500 group-hover:scale-105"
                 style={{ 
-                  backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(src/assets/EldenRing.jpg)`,
+                  backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/EldenRing.jpg)`,
                   backgroundColor: '#2d2d44' 
                 }}
               />
